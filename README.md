@@ -1,5 +1,8 @@
 ## OneKey L2TP Install Script
 
+### Original Script by VPSeek
+http://www.vpseek.com/automated-l2tp-over-ipsec-implement-script
+
 ### Usage
 
 ```
